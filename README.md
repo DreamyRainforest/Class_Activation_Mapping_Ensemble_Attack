@@ -10,7 +10,7 @@ pillow 9.5.0
 # Experiments:
 The code consists of three Python scripts. Before running the code, you need to complete the following two steps:     
 
-Download Data: Download the data from the provided link (https://pan.baidu.com/s/1MEjNh6evha2hcdrQXjNv8w?pwd=yzza) and place it in the benign_image/ directory.    
+Download Data: Download the data from the provided link (https://pan.baidu.com/s/1NlenXev0cN1l55ZSVQ-_nw; password: d6tn) and place it in the benign_image/ directory.    
 
 Calculate Class Activation Maps (CAM): Compute the class activation maps and place them in the CAM/ directory.    
 
