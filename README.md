@@ -8,7 +8,11 @@ tqdm 4.65.0
 numpy 1.21.6     
 pillow 9.5.0     
 # Experiments:
-The code consists of 3 Python scripts. Before running the code, please download the data (https://pan.baidu.com/s/1MEjNh6evha2hcdrQXjNv8w?pwd=yzza). The data is then placed in benign_image/. Please calculate the class activation map (https://github.com/frgfm/torch-cam) and place it in CAM/
+The code consists of three Python scripts. Before running the code, you need to complete the following two steps:     
+
+Download Data: Download the data from the provided link (https://pan.baidu.com/s/1MEjNh6evha2hcdrQXjNv8w?pwd=yzza) and place it in the benign_image/ directory.    
+
+Calculate Class Activation Maps (CAM): Compute the class activation maps and place them in the CAM/ directory.    
 
 # Running the code
 
